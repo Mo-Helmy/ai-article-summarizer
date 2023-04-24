@@ -6,7 +6,10 @@ const Hero = () => {
       <nav className="flex justify-between items-center w-full mb-10 pt-3">
         <img src={logo} alt="sumz_logo" className="w-28 object-contain" />
 
-        <a href="https://github.com/Mo-Helmy/ai-summarizer" target="_blank">
+        <a
+          href="https://github.com/Mo-Helmy/ai-article-summarizer"
+          target="_blank"
+        >
           <div className="black_btn">GitHub</div>
         </a>
       </nav>
